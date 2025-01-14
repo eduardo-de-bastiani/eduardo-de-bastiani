@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://unimelbfilmsoc.org/wp-content/uploads/2023/04/suzumes-animation.webp?w=911"  />
+  <img height="400" src="https://github.com/user-attachments/assets/1efedbfe-409f-40c1-825d-f7e8709d9f75"  />
 </div>
 
 ###
@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/7c/b1/7d/7cb17dbf49de156774adb47b0c8f93f2.gif"  />
+<img align="right" height="200" src="https://github.com/user-attachments/assets/1ec94888-03ca-46e5-895c-b7d865a2eaa6"  />
 
 ###
 
