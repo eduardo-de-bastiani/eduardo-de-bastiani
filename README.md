@@ -18,7 +18,7 @@
 
 <h3 align="left">Data Scientist and Software Engineering Student from Brazil. Feel free to explore my projects!</h3>
 <h3 align="left">🔭 I'm working on AI and Machine Learning solutions<br><br>
-                 🌱 I'm currently learning FastAPI<br><br>
+                 🌱 I'm currently learning TypeScript<br><br>
                  🚗 My hobbies are driving and working out!<br><br>
                     </h3>
 
